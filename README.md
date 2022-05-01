@@ -2,7 +2,7 @@
 
 # 📃 Sobre
 
-O projeto **Alura studies** é uma ferramenta criada durante o curso **"React com TypeScript"** da **Alura**. A ferramenta permite criar uma lista de atividades e definir o tempo previsto para a realização de cada uma. Além disso, conta com um temporizador que quando a tarefa é iniciada, é feita a contagem regressiva para sua finalização.
+O projeto **Alura Studies** é uma ferramenta criada durante o curso **"React com TypeScript"** da **Alura**. A ferramenta permite criar uma lista de atividades e definir o tempo previsto para a realização de cada uma. Além disso, conta com um temporizador que quando a tarefa é iniciada, é feita a contagem regressiva para sua finalização.
 
 O projeto teve como objetivo aprofundar os seguintes conhecimentos:
 
